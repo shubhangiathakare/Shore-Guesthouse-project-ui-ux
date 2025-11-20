@@ -25,3 +25,7 @@ The project emphasizes **visual appeal, smooth navigation, and responsive design
 - **Booking/Planning:** Interactive section for planning your stay
 - **About Us:** Information about the guesthouse and its story
 - **Contact:** Easy contact form for inquiries and reservations
+
+## **Link**
+
+https://www.figma.com/site/7ehijrpraVZyKhxbi6HQfx/Untitled?node-id=0-1&p=f&t=QlYs1AisC3EEgiaw-0
